@@ -12,9 +12,11 @@ Posteriormente o programa solicitará o número da agência, seguido do número 
 
 
 ### 🛠 Tecnologias utilizadas:
-<img align="center" alt="ssperandio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="center" alt="ssperandio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="center" alt="ssperandio-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<div>
+  <img align="center" alt="ssperandio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="ssperandio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="ssperandio-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  
+</div>
 
 
 ### 📫 Entre em contato comigo:
