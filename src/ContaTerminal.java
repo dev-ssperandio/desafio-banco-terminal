@@ -11,7 +11,7 @@ public class ContaTerminal {
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
-        System.out.println("Olá, digite seu primeiro nome, pressione a tecla 'Enter' e na segunda linha digite o último nome? ");
+        System.out.println("Olá, digite seu primeiro nome, pressione a tecla 'Enter' e na segunda linha digite o último nome: ");
         String nomeCliente = scanner.next().concat(" ").concat(scanner.next());
 
         System.out.println("Por favor, digite o número da agência: ");
